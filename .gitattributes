@@ -1,0 +1,11 @@
+# Count notebooks in GitHub language stats
+*.ipynb linguist-detectable=true
+
+# Ignore dataset files from stats
+*.csv linguist-documentation
+*.json linguist-documentation
+*.tsv linguist-documentation
+*.txt linguist-documentation
+*.arff linguist-documentation
+*.data linguist-documentation
+*.xlsx linguist-documentation
